@@ -1,0 +1,39 @@
+.cabeça{
+    border: solid 5px black;
+    background-color: teal;
+}
+.titulo{
+    color:white;
+    font-family: Verdana;
+    padding: 10px;
+}
+.slogan{
+    font-family: sans-serif;
+    color:white;
+    padding: 10px;
+}
+.p1{
+    font-family: 'Times New Roman';
+    padding-top: 10px;
+    text-align: center;
+}
+.legenda{
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 20pt;
+}
+img.figura{
+    padding-left: 150px;
+    width: 295px;
+}
+img.ods2{
+    padding-left: 150px;
+    width: 500px;
+}
+body{
+    background-color: rgb(182, 230, 112); 
+}
+.corpo{
+    background: url(visual/fundo.jpg);
+    border: solid 5px black;
+}
